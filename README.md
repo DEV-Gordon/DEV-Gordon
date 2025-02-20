@@ -14,10 +14,10 @@ I am a Systems Engineering student, passionate about 3D modeling, software devel
 <br>
 
 <div align="center">
-   <img width="824" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+   <img width="824" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Gordon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-   <img width="424" src="https://github-readme-streak-stats.herokuapp.com/?user=Gordon-DEVJ&theme=vue-dark&hide_border=true" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=DEV-Gordon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+   <img width="424" src="https://github-readme-streak-stats.herokuapp.com/?user=DEV-Gordon&theme=vue-dark&hide_border=true" />
 </div>
