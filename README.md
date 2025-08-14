@@ -18,5 +18,9 @@ I am a Systems Engineering student, passionate about 3D modeling, software devel
 </div>
 
 <div align="center">
+   <img width="424" src="https://github-readme-streak-stats.herokuapp.com/?user=DEV-Gordon&theme=vue-dark&hide_border=true" />
+</div>
+
+<div align="center">
    <img width="424" src="https://github-readme-stats.vercel.app/api?username=DEV-Gordon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </div>
