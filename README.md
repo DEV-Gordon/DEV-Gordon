@@ -1,4 +1,8 @@
 <h1>Hello! I'm Carlos</h1>
+<div align="center">
+   <img width="800" src="https://readme-stats-github.pages.dev/api/typing?lines=Hello!%20I'm%20Carlos." />
+</div>
+
 
 I am a Systems Engineering student, passionate about 3D modeling, software development, web development, and artificial intelligence.
 
