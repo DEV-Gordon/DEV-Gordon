@@ -2,12 +2,6 @@
 I am a Systems Engineering student, passionate about 3D modeling, software development, web development, and artificial intelligence.
 
 <br>
-<hr>
-<div align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEV-Gordon&theme=github_dark" />
-</div>
-<hr>
-
 
 💻 Technologies and tools
 <br>
