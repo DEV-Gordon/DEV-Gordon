@@ -1,10 +1,13 @@
 <h1>Hello! I'm Carlos</h1>
-<div align="center">
-   <img width="800" src="https://readme-stats-github.pages.dev/api/typing?lines=Hello!%20I'm%20Carlos." />
-</div>
-
-
 I am a Systems Engineering student, passionate about 3D modeling, software development, web development, and artificial intelligence.
+
+<br>
+<hr>
+<div align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEV-Gordon&theme=github_dark" />
+</div>
+<hr>
+
 
 💻 Technologies and tools
 <br>
@@ -14,12 +17,16 @@ I am a Systems Engineering student, passionate about 3D modeling, software devel
     Tools: Git, Docker, Figma, VsCode
     Other skills: Databases, UX/UI design, 3D modeling, Video games
 
+<hr>
 📈 GitHub Statistics<br>
 <br>
+
 
 <div align="center">
    <img width="424" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Gordon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
+
+
 
 <div align="center">
    <img width="424" src="https://github-readme-streak-stats.herokuapp.com/?user=DEV-Gordon&theme=vue-dark&hide_border=true" />
